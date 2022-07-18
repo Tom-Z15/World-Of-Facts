@@ -1,4 +1,4 @@
-# 'Świat ciekawostek'
+# 'World of Facts'
 
 
 ## It's a small python project that shows user various fun facts about many topics.
