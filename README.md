@@ -1,7 +1,8 @@
 # 'World of Facts'
 
-
 ## It's a small python project that shows user various fun facts about many topics.
+
+MorVo - backend Tom_Z15 frontend
 
 > How to use?
 * Open terminal.
